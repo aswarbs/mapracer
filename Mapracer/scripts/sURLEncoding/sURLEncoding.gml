@@ -12,7 +12,7 @@ function url_encode(str)
             (code >= 65 && code <= 90) ||     // A-Z
             (code >= 97 && code <= 122) ||    // a-z
             ch == "-" || ch == "_" || ch == "." || ch == "~")
-        {
+        { 
             encoded += ch;
         }
         else if (ch == " ")
