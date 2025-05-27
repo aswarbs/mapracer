@@ -37,7 +37,9 @@
   "resources":[
     {"id":{"name":"oCar","path":"objects/oCar/oCar.yy",},},
     {"id":{"name":"oNetworkManager","path":"objects/oNetworkManager/oNetworkManager.yy",},},
+    {"id":{"name":"oRoute","path":"objects/oRoute/oRoute.yy",},},
     {"id":{"name":"rmDriving","path":"rooms/rmDriving/rmDriving.yy",},},
+    {"id":{"name":"rmRoute","path":"rooms/rmRoute/rmRoute.yy",},},
     {"id":{"name":"rmTest","path":"rooms/rmTest/rmTest.yy",},},
     {"id":{"name":"sDirections","path":"scripts/sDirections/sDirections.yy",},},
     {"id":{"name":"sGeocoding","path":"scripts/sGeocoding/sGeocoding.yy",},},
@@ -48,6 +50,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"rmRoute","path":"rooms/rmRoute/rmRoute.yy",},},
     {"roomId":{"name":"rmDriving","path":"rooms/rmDriving/rmDriving.yy",},},
     {"roomId":{"name":"rmTest","path":"rooms/rmTest/rmTest.yy",},},
   ],
